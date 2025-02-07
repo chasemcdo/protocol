@@ -1,5 +1,15 @@
 # github.com/livekit/protocol
 
+## 1.34.0
+
+### Minor Changes
+
+- Allow passing all SIP trunk options in CreateSIPParticipant. - [#961](https://github.com/livekit/protocol/pull/961) ([@dennwc](https://github.com/dennwc))
+
+### Patch Changes
+
+- Remove SIP outbound number normalization for Telnyx. - [#969](https://github.com/livekit/protocol/pull/969) ([@dennwc](https://github.com/dennwc))
+
 ## 1.33.0
 
 ### Minor Changes
